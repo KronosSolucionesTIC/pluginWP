@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-23 09:13+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-contacts-manager.php:106
+msgid "WP Contacts"
+msgstr ""
+
+#: wp-contacts-manager.php:107
+msgid "Contacts"
+msgstr ""
+
+#: wp-contacts-manager.php:206
+msgid "Email already exist!"
+msgstr ""
+
+#: wp-contacts-manager.php:212
+msgid "Contact has been successfully saved."
+msgstr ""
+
+#: wp-contacts-manager.php:241
+msgid "Contact has been successfully updated."
+msgstr ""
+
+#: wp-contacts-manager.php:257
+msgid "Contact has been successfully deleted."
+msgstr ""
+
+#: wp-contacts-manager.php:260
+msgid "Something went wrong!"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:7
+msgid "List of Contacts"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:15
+msgid "Contact Details"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:22
+#: templates/wp-contacts-manager-contact.php:24
+#: templates/wp-contacts-manager-contact.php:113
+#: templates/wp-contacts-manager-contact.php:115
+#: templates/wp-contacts-manager-contact.php:222
+#: templates/wp-contacts-manager-contact.php:277
+msgid "Name"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:28
+#: templates/wp-contacts-manager-contact.php:30
+#: templates/wp-contacts-manager-contact.php:119
+#: templates/wp-contacts-manager-contact.php:121
+#: templates/wp-contacts-manager-contact.php:223
+#: templates/wp-contacts-manager-contact.php:278
+msgid "Last Name"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:34
+#: templates/wp-contacts-manager-contact.php:125
+#: templates/wp-contacts-manager-contact.php:224
+#: templates/wp-contacts-manager-contact.php:279
+msgid "Personal Email"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:36
+#: templates/wp-contacts-manager-contact.php:127
+msgid "name@gmail.com"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:42
+#: templates/wp-contacts-manager-contact.php:133
+#: templates/wp-contacts-manager-contact.php:225
+#: templates/wp-contacts-manager-contact.php:280
+msgid "Personal Phone"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:44
+#: templates/wp-contacts-manager-contact.php:135
+msgid "P.Phone"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:48
+#: templates/wp-contacts-manager-contact.php:50
+#: templates/wp-contacts-manager-contact.php:141
+#: templates/wp-contacts-manager-contact.php:143
+#: templates/wp-contacts-manager-contact.php:227
+#: templates/wp-contacts-manager-contact.php:281
+msgid "Company"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:54
+#: templates/wp-contacts-manager-contact.php:56
+#: templates/wp-contacts-manager-contact.php:147
+#: templates/wp-contacts-manager-contact.php:149
+msgid "Job Title"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:63
+#: templates/wp-contacts-manager-contact.php:65
+#: templates/wp-contacts-manager-contact.php:155
+#: templates/wp-contacts-manager-contact.php:157
+#: templates/wp-contacts-manager-contact.php:228
+#: templates/wp-contacts-manager-contact.php:283
+msgid "Email"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:69
+#: templates/wp-contacts-manager-contact.php:71
+#: templates/wp-contacts-manager-contact.php:161
+#: templates/wp-contacts-manager-contact.php:163
+#: templates/wp-contacts-manager-contact.php:229
+#: templates/wp-contacts-manager-contact.php:284
+msgid "Phone"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:75
+#: templates/wp-contacts-manager-contact.php:77
+#: templates/wp-contacts-manager-contact.php:167
+#: templates/wp-contacts-manager-contact.php:169
+#: templates/wp-contacts-manager-contact.php:226
+#: templates/wp-contacts-manager-contact.php:285
+msgid "Web"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:83
+#: templates/wp-contacts-manager-contact.php:85
+#: templates/wp-contacts-manager-contact.php:175
+#: templates/wp-contacts-manager-contact.php:177
+#: templates/wp-contacts-manager-contact.php:286
+msgid "Address"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:91
+#: templates/wp-contacts-manager-contact.php:183
+#: templates/wp-contacts-manager-contact.php:287
+msgid "Notes"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:93
+#: templates/wp-contacts-manager-contact.php:185
+msgid "Maximum 500 characters"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:98
+#: templates/wp-contacts-manager-contact.php:189
+msgid "Save"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:106
+msgid "Edit Contact Details"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:196
+msgid "Page Size"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:202
+msgid "All"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:205
+#: templates/wp-contacts-manager-contact.php:206
+msgid "Search"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:207
+msgid "This function only runs with PRO version - More Info - "
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:207
+msgid " Excel"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:210
+msgid "This function and other fields only runs with"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:211
+msgid "PRO version - MORE INFO -"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:214
+msgid " Create Contact"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:230
+msgid "Action"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:245
+msgid "Delete"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:245
+msgid "Are you sure to want delete {{data.name}} ?"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:254
+msgid "Filtered {{ filtered.length}} of {{ totalItems}} total contacts"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:262
+msgid "No Contact found!"
+msgstr ""
+
+#: templates/wp-contacts-manager-contact.php:282
+msgid "Job"
+msgstr ""
